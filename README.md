@@ -1,16 +1,16 @@
 # myapp
 
-A new Flutter project.
+# Vista web
+<img width="945" height="793" alt="image" src="https://github.com/user-attachments/assets/bbf27cfc-291d-453e-84e1-818a83dbdc96" />
+<img width="942" height="786" alt="image" src="https://github.com/user-attachments/assets/908ca192-0251-4b9e-9df3-0ebd8cd4232f" />
+<img width="946" height="802" alt="image" src="https://github.com/user-attachments/assets/ea03354b-d79c-4518-9c43-703a70d0ba77" />
+<img width="943" height="795" alt="image" src="https://github.com/user-attachments/assets/1ac8c60e-4d09-4a08-894a-fda242de5a7b" />
+<img width="951" height="793" alt="image" src="https://github.com/user-attachments/assets/f4e55d86-853c-43ad-96c1-9a48f77f58d2" />
 
-## Getting Started
+# Vista android
+<img width="408" height="742" alt="image" src="https://github.com/user-attachments/assets/a1a2271f-c95d-4ad7-a9f6-a404cd24cd08" />
+<img width="418" height="739" alt="image" src="https://github.com/user-attachments/assets/9c62edb1-341f-439e-b91c-ef27303fac12" />
+<img width="412" height="735" alt="image" src="https://github.com/user-attachments/assets/a5843a0c-7f4c-469e-8a99-bdb85de36922" />
+<img width="406" height="736" alt="image" src="https://github.com/user-attachments/assets/50409734-ef8f-44a6-a658-fdfc71babeae" />
+<img width="414" height="735" alt="image" src="https://github.com/user-attachments/assets/2589c41e-e849-46d1-b2fb-1ddc845aac34" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
